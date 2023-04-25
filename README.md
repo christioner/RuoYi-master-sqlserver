@@ -13,6 +13,8 @@
 
 若依是一套全部开源的快速开发平台，毫无保留给个人及企业免费使用。
 
+本版本是：基于RuoYi-Vue3-Vite自行修改的后端，支持SqlServer，同步修改了数据库生成脚本。
+
 * 前端采用Vue、Element UI。
 * 后端采用Spring Boot、Spring Security、Redis & Jwt。
 * 权限认证使用Jwt，支持多终端认证系统。
